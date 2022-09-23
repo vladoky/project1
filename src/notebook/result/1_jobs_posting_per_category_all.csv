@@ -1,0 +1,132 @@
+,job_category,count
+0,"Engineering, Architecture, & Planning",497
+1,"Technology, Data & Innovation",312
+2,Legal Affairs,224
+3,"Public Safety, Inspections, & Enforcement",179
+4,Building Operations & Maintenance,177
+5,"Finance, Accounting, & Procurement",168
+6,Administration & Human Resources,131
+7,Constituent Services & Community Programs,129
+8,Health,125
+9,"Policy, Research & Analysis",124
+10,"Finance, Accounting, & Procurement Policy, Research & Analysis",63
+11,Social Services,62
+12,"Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",60
+13,"Engineering, Architecture, & Planning Policy, Research & Analysis",31
+14,"Engineering, Architecture, & Planning Technology, Data & Innovation",31
+15,"Technology, Data & Innovation Policy, Research & Analysis",28
+16,Information Technology & Telecommunications,28
+17,"Legal Affairs Policy, Research & Analysis",25
+18,"Policy, Research & Analysis Public Safety, Inspections, & Enforcement",25
+19,Communications & Intergovernmental Affairs,24
+20,"Health Policy, Research & Analysis",23
+21,"Health Public Safety, Inspections, & Enforcement",21
+22,"Administration & Human Resources Policy, Research & Analysis",20
+23,"Building Operations & Maintenance Public Safety, Inspections, & Enforcement",17
+24,"Engineering, Architecture, & Planning Finance, Accounting, & Procurement",14
+25,Clerical & Administrative Support,13
+26,"Administration & Human Resources Public Safety, Inspections, & Enforcement",13
+27,"Communications & Intergovernmental Affairs Policy, Research & Analysis",13
+28,Administration & Human Resources Legal Affairs,11
+29,"Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis",10
+30,"Constituent Services & Community Programs Policy, Research & Analysis",10
+31,"Technology, Data & Innovation Social Services",10
+32,"Public Safety, Inspections, & Enforcement Social Services",9
+33,"Constituent Services & Community Programs Public Safety, Inspections, & Enforcement",9
+34,"Engineering, Architecture, & Planning Building Operations & Maintenance",9
+35,"Administration & Human Resources Finance, Accounting, & Procurement",9
+36,"Constituent Services & Community Programs Policy, Research & Analysis Social Services",8
+37,Maintenance & Operations,8
+38,Constituent Services & Community Programs Social Services,8
+39,Constituent Services & Community Programs Communications & Intergovernmental Affairs,8
+40,"Engineering, Architecture, & Planning Building Operations & Maintenance Public Safety, Inspections, & Enforcement",8
+41,Administration & Human Resources Building Operations & Maintenance,7
+42,"Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",6
+43,"Administration & Human Resources Technology, Data & Innovation",6
+44,"Constituent Services & Community Programs Engineering, Architecture, & Planning",6
+45,Administration & Human Resources Social Services,6
+46,"Administration & Human Resources Constituent Services & Community Programs Policy, Research & Analysis Social Services",6
+47,"Health Technology, Data & Innovation",6
+48,Administration & Human Resources Constituent Services & Community Programs,5
+49,"Policy, Research & Analysis Social Services",5
+50,"Constituent Services & Community Programs Communications & Intergovernmental Affairs Policy, Research & Analysis",5
+51,"Legal Affairs Public Safety, Inspections, & Enforcement",5
+52,"Engineering, Architecture, & Planning Finance, Accounting, & Procurement Building Operations & Maintenance Public Safety, Inspections, & Enforcement",4
+53,Community & Business Services Social Services,4
+54,"Technology, Data & Innovation Legal Affairs",4
+55,Administration & Human Resources Constituent Services & Community Programs Social Services,4
+56,"Finance, Accounting, & Procurement Legal Affairs",4
+57,Health Legal Affairs,4
+58,"Administration & Human Resources Legal Affairs Policy, Research & Analysis",4
+59,"Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",4
+60,"Finance, Accounting, & Procurement Technology, Data & Innovation",3
+61,Community & Business Services,3
+62,Clerical & Administrative Support Legal,3
+63,"Communications & Intergovernmental Affairs Finance, Accounting, & Procurement",2
+64,Administration & Human Resources Communications & Intergovernmental Affairs,2
+65,Policy & Analysis Social Services,2
+66,"Engineering, Architecture, & Planning Technology, Data & Innovation Public Safety, Inspections, & Enforcement",2
+67,"Administration & Human Resources Health Technology, Data & Innovation",2
+68,Legal Policy & Analysis,2
+69,Communications & Intergovernmental Affairs Building Operations & Maintenance Social Services,2
+70,"Finance, Accounting, & Procurement Technology, Data & Innovation Policy, Research & Analysis",2
+71,Information Technology & Telecommunications Policy & Analysis Social Services,2
+72,"Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",2
+73,"Constituent Services & Community Programs Finance, Accounting, & Procurement Policy, Research & Analysis Social Services",2
+74,"Constituent Services & Community Programs Technology, Data & Innovation Public Safety, Inspections, & Enforcement Social Services",2
+75,"Administration & Human Resources Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis",2
+76,Legal Affairs Social Services,2
+77,"Communications & Intergovernmental Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+78,Administration & Human Resources Health,2
+79,"Administration & Human Resources Finance, Accounting, & Procurement Building Operations & Maintenance Policy, Research & Analysis",2
+80,"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis",2
+81,Constituent Services & Community Programs Building Operations & Maintenance,2
+82,"Administration & Human Resources Technology, Data & Innovation Policy, Research & Analysis",2
+83,"Administration & Human Resources Finance, Accounting, & Procurement Technology, Data & Innovation Building Operations & Maintenance Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+84,"Communications & Intergovernmental Affairs Technology, Data & Innovation",2
+85,"Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
+86,"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",2
+87,"Engineering, Architecture, & Planning Finance, Accounting, & Procurement Policy, Research & Analysis",2
+88,,2
+89,"Administration & Human Resources Finance, Accounting, & Procurement Building Operations & Maintenance",2
+90,"Administration & Human Resources Communications & Intergovernmental Affairs Health Public Safety, Inspections, & Enforcement",2
+91,Health Social Services,2
+92,"Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+93,"Constituent Services & Community Programs Finance, Accounting, & Procurement Technology, Data & Innovation Policy, Research & Analysis",2
+94,Legal,2
+95,"Administration & Human Resources Building Operations & Maintenance Policy, Research & Analysis",2
+96,"Engineering, Architecture, & Planning Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+97,"Finance, Accounting, & Procurement Health",2
+98,"Communications & Intergovernmental Affairs Finance, Accounting, & Procurement Policy, Research & Analysis",2
+99,"Constituent Services & Community Programs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+100,Administration & Human Resources Constituent Services & Community Programs Legal Affairs,2
+101,Constituent Services & Community Programs Health Social Services,2
+102,"Constituent Services & Community Programs Technology, Data & Innovation Policy, Research & Analysis Social Services",2
+103,"Engineering, Architecture, & Planning Maintenance & Operations",2
+104,"Administration & Human Resources Engineering, Architecture, & Planning Policy, Research & Analysis",2
+105,"Finance, Accounting, & Procurement Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+106,"Communications & Intergovernmental Affairs Engineering, Architecture, & Planning Technology, Data & Innovation Policy, Research & Analysis",2
+107,Constituent Services & Community Programs Communications & Intergovernmental Affairs Social Services,2
+108,"Technology, Data & Innovation Building Operations & Maintenance",2
+109,Health Building Operations & Maintenance,2
+110,"Administration & Human Resources Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",2
+111,"Administration & Human Resources Technology, Data & Innovation Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+112,"Administration & Human Resources Technology, Data & Innovation Building Operations & Maintenance",1
+113,"Constituent Services & Community Programs Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",1
+114,"Finance, Accounting, & Procurement Social Services",1
+115,Clerical & Administrative Support Policy & Analysis,1
+116,"Administration & Human Resources Health Public Safety, Inspections, & Enforcement",1
+117,"Finance, Accounting, & Procurement Information Technology & Telecommunications",1
+118,"Finance, Accounting, & Procurement Public Safety, Inspections, & Enforcement",1
+119,"Administration & Human Resources Legal Affairs Public Safety, Inspections, & Enforcement",1
+120,"Health Building Operations & Maintenance Public Safety, Inspections, & Enforcement",1
+121,"Administration & Human Resources Constituent Services & Community Programs Finance, Accounting, & Procurement Social Services",1
+122,Constituent Services & Community Programs Legal Affairs,1
+123,"Administration & Human Resources Finance, Accounting, & Procurement Policy, Research & Analysis",1
+124,"Engineering, Architecture, & Planning Technology, Data & Innovation Policy, Research & Analysis",1
+125,"Administration & Human Resources Policy, Research & Analysis Public Safety, Inspections, & Enforcement",1
+126,"Finance, Accounting, & Procurement Policy & Analysis",1
+127,"Administration & Human Resources Constituent Services & Community Programs Policy, Research & Analysis",1
+128,Clerical & Administrative Support Community & Business Services,1
+129,"Administration & Human Resources Communications & Intergovernmental Affairs Engineering, Architecture, & Planning Policy, Research & Analysis",1
+130,"Administration & Human Resources Public Safety, Inspections, & Enforcement Social Services",1
