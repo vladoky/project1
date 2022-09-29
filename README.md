@@ -2,6 +2,10 @@
 
 [assesment_notebook](src/notebook/assesment_notebook.ipynb)
 
+## ALL KPI result also in directory:
+
+[ressult](src/notebook/result/)
+
 # Coding Challenge
 
 This Code assessment represents a coding challenge for Data Engineering roles.
